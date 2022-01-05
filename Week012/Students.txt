@@ -1,0 +1,9 @@
+ID:1
+Name:Bob
+Mark:12.34
+ID:2
+Name:Jane
+Mark:56.78
+ID:3
+Name:Fred
+Mark:91.01

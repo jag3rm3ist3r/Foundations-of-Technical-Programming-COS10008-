@@ -1,0 +1,20 @@
+9.1.a
+The difference between calling a function by value and by reference.
+The function may be passed copy of the arguments or references to the actual
+arguments themselves.
+While the function is running if it has access to the reference then it can
+change it on the fly from inside the function but if the arguemnt is copied then
+you need to use the return value to modify the original.
+
+9.1.b
+Limitations of arrays. At least three.
+Arrays are sometimes more cumbersome and less efficient than they need to be.
+Arrays have a set size.
+Arrays hold only one data type.
+
+9.1.c
+strcmp(char *, char *) function.
+The string comparison function allows you to compare strings to see if they are
+equal to, greater than or less than each other.
+The function will return 0 if they are the same.
+

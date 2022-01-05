@@ -1,0 +1,4 @@
+Number of sensor readings: 10
+Average reading: 149.77
+Maximum reading: 169.30
+Minimum reading: 132.50
